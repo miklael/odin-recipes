@@ -1,0 +1,45 @@
+body {
+    background-color: #dee4bd
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #769A62;
+    height: 300px;
+    width: 1100px;
+    border: 30px seagreen;
+}
+
+.title {
+    background-color: #a9be94;
+    display: flex;
+    justify-content: center;
+    align: center;
+    margin: auto;
+    width: 550px;
+    margin-bottom: 20px;
+}
+
+.link {
+    color: #a9be94;
+    font-size: 24px;
+}
+
+li {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+
+:hover {
+    color: white;
+}
+
